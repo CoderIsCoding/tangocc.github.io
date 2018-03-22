@@ -67,7 +67,7 @@ ga_domain: tango.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "总之岁月漫长,但却值得等待。<br>生活单调,热爱民谣。"
+sidebar-about-description: "生活单调,热爱民谣。<br>总之岁月漫长,但却值得等待。"
 sidebar-avatar: /img/avatar-tango.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
