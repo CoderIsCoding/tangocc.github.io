@@ -433,3 +433,12 @@ java的拦截器 主要是用在插件上，扩展件上比如 hivernate spring 
 
 面试官问我了解ClassLoader吗？怎么判断两个对象是不是属于同一个类？然后我就回答了这个问题，但是我还是没反应过来这和刚才的问题有什么联系，面试官再三提示，我才明白过来，如果成员是static，但是当由不同ClassLoader加载则仍然会不止一个成员变量。
 ```
+
+### 20.面试题
+
+![](/img/in-post/java/post-java-p1.jpeg)
+---
+![](/img/in-post/java/post-java-p2.jpeg)
+---
+![](/img/in-post/java/post-java-p3.jpeg)
+---
